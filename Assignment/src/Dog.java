@@ -2,7 +2,7 @@ public class Dog {
     private String color = "Black";
 
     public Dog() {
-        // default constructor
+        
     }
 
     public Dog(String color) {
